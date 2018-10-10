@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS Check redirections,Chrome 69.0.3497.100,,2018-10-10 20:52:14,2018-10-10 20:53:11,56.951s,FAILED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:52:14,2018-10-10 20:52:26,11.398s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:52:15,2018-10-10 20:52:18,3.527s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:52:18,2018-10-10 20:52:25,7.158s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:52:25,2018-10-10 20:52:25,0.055s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:52:25,2018-10-10 20:52:26,0.152s,PASSED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:52:26,2018-10-10 20:52:36,10.389s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:52:26,2018-10-10 20:52:29,3.349s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:52:29,2018-10-10 20:52:36,6.995s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:52:36,2018-10-10 20:52:36,0.012s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:52:36,2018-10-10 20:52:36,0.002s,PASSED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:52:36,2018-10-10 20:52:44,7.693s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:52:36,2018-10-10 20:52:39,3.312s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:52:39,2018-10-10 20:52:44,4.322s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:52:44,2018-10-10 20:52:44,0.034s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:52:44,2018-10-10 20:52:44,0.006s,PASSED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:52:44,2018-10-10 20:52:55,11.048s,FAILED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:52:44,2018-10-10 20:52:47,3.427s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:52:47,2018-10-10 20:52:55,7.549s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:52:55,2018-10-10 20:52:55,0.030s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:52:55,2018-10-10 20:52:55,0.017s,FAILED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:52:55,2018-10-10 20:53:01,6.645s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:52:55,2018-10-10 20:52:58,3.222s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:52:58,2018-10-10 20:53:01,3.371s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:53:01,2018-10-10 20:53:01,0.031s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:53:01,2018-10-10 20:53:01,0.001s,PASSED
+,,,,,,
+Test Cases/TC verify redirected url,Chrome 69.0.3497.100,,2018-10-10 20:53:01,2018-10-10 20:53:10,8.372s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 20:53:01,2018-10-10 20:53:04,2.934s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 20:53:04,2018-10-10 20:53:10,5.407s,PASSED
+Statement - vCurrentUrl = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 69.0.3497.100,,2018-10-10 20:53:10,2018-10-10 20:53:10,0.015s,PASSED
+verifyMatch,Chrome 69.0.3497.100,,2018-10-10 20:53:10,2018-10-10 20:53:10,0.001s,PASSED

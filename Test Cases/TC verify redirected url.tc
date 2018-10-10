@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC verify redirected url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>008514ab-ec07-42f3-a265-2093e871d655</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.brighton-hove.gov.uk/cityclean'</defaultValue>
+      <description></description>
+      <id>27fda65b-e75a-4f01-b02d-62e4b9d46f6b</id>
+      <masked>false</masked>
+      <name>vRequestedUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.brighton-hove.gov.uk/content/environment/recycling-rubbish-and-street-cleaning-0'</defaultValue>
+      <description></description>
+      <id>3d1a53e6-8af0-4476-8494-2df5de0fe5f9</id>
+      <masked>false</masked>
+      <name>vExpectedUrl</name>
+   </variable>
+</TestCaseEntity>
