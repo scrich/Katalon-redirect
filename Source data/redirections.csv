@@ -1,0 +1,4 @@
+dRequestedUrl,dExpectedUrl
+http://throw.local/,http://throw.local/
+http://throw.local/content/,http://catch.local/content/
+http://throw.local/content/1.html,http://catch.local/content/1.html

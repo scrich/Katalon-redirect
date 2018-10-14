@@ -4,7 +4,7 @@
    <name>TS Check redirections</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-10-10T20:52:11</lastRun>
+   <lastRun>2018-10-13T19:34:21</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
